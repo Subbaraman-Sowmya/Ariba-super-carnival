@@ -1,0 +1,6 @@
+Ariba explanation
+The API Perspective: Tell them: "I understand that Ariba lives in the Cloud but isn't isolated. It uses REST APIs to fetch external insights. For example, we can use Python to scrape or fetch Glassdoor sentiment and feed it into the Ariba Supplier Risk module."
+
+The Regex Component: "I use Regex as a filter. Just as we must remove 'oily qualities' from our mind, we must remove 'noise' from raw external data before it hits the Ariba core. This ensures Data Integrity."
+
+The Integration Logic: "By using Python scripts (like the one above), I can automate the 'handshake' between Ariba and external platforms, ensuring the 'Internal Manager' (Ariba) always has the most 'Truthful' (Cleaned) data."
